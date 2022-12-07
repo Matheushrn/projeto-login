@@ -67,7 +67,7 @@ form > div.campo{
 }
 
 div.campo > label{
-    display: ;
+    display:none;
 }
 
 div.campo > span{
@@ -76,7 +76,8 @@ div.campo > span{
 
 div.campo > input{
     background-color: #315062;
-    
+    margin-left:5px;
+    width:calc(100% - 40px);
     border: 0px;
     border-radius: 3px;
 }

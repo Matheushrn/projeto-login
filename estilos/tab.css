@@ -25,6 +25,10 @@
         font-size: 1.0em;
     }
 
+    div.campo > label{
+        display: inline;
+    }
+
     form > div.campo {
         height:90px;
     }

@@ -32,6 +32,10 @@
     form > div.campo {
         height:90px;
     }
+    
+    div.campo > label{
+        display: inline;
+    }
 
     div.campo > input{
         height: 30px;
