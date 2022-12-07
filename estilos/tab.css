@@ -20,4 +20,19 @@
         float:right;
         width:67%;
     }
+
+    div#formulario > p {
+        font-size: 1.0em;
+    }
+
+    form > div.campo {
+        height:90px;
+    }
+
+    div.campo > input{
+        height: 30px;
+        width:calc(100% - 100px);
+        margin:7px;
+        border-radius:8px;
+    }
 }
